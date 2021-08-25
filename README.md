@@ -5,3 +5,5 @@ Learning more about WebSockets and playing around with Binance Stream to get rea
 Check out this project here:
 
 https://brunoia.github.io/slp-realtime/
+
+![slp](https://user-images.githubusercontent.com/57513606/130725600-23342cfe-762d-4572-9dc7-a76aa019c20d.gif)
